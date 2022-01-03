@@ -1,0 +1,3 @@
+db.products.insert({"price":40.99, "title":"Vault Boy Boblle Head","imgUrl":"https://eumerch.bethesda.net/media/image/c3/00/a6/1064430_Strength_1_600x600.png"})
+db.products.insert({"price":129.50, "title":"Link's Shield","imgUrl":"https://m.media-amazon.com/images/I/61fdZx44YnL._AC_SL1000_.jpg"})
+db.products.insert({"price":400, "title":"Lancer","imgUrl":"https://m.media-amazon.com/images/I/41ejHBKijnL._SX466_.jpg"})
